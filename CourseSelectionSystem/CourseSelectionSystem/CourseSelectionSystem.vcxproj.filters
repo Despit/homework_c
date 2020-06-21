@@ -15,8 +15,65 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CourseSelectionSystem.cpp">
+    <ClCompile Include="CourseSelectionSystem.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="login.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="database.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_login.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="course_select.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource6.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource7.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource8.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CourseSelectionSystem2.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>
